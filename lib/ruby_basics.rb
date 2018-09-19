@@ -6,12 +6,11 @@ def assign_variable(value)
   name = value
 end
 
-def argue
-  "I'm right and you are wrong!"
+def argue(phrase)
+ phrase =  "I'm right and you are wrong!"
 end
 
 def greeting(greeting, name)
-  greeting = "Hi there,"
 
 end
 
