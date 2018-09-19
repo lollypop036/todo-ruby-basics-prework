@@ -8,7 +8,6 @@ end
 
 def argue
   "I'm right and you are wrong!"
- argue
 end
 
 def greeting
